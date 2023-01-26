@@ -3,4 +3,6 @@
     <string name="we_have_a_surprise_for_you">Temos uma surpresa para você!</string>
     <string name="click_here">Clique aqui</string>
     <string name="cat_in_a_box">Gato em uma caixa</string>
+    <string name="cat_too_close">Imagem de um gato bem perto</string>
+    <string name="happy_birthday_human">Parabéns humano, estou de olho em você!</string>
 </resources>
